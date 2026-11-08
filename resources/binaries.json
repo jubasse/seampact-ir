@@ -1,4 +1,10 @@
 {
-  "version": null,
-  "sha256": {}
+  "version": "1.0.1",
+  "sha256": {
+    "seampact-linux-x64": "edb622bc1fbfebce315ded010e8f01c80548a9e6623faa16864d07cd84f0ec68",
+    "seampact-linux-arm64": "1b608af8dc78475729046d051717f9dcfd06662b7172928c5b4a976c146bdd48",
+    "seampact-darwin-x64": "8fbf4ebf24ea6fcd911e2c14fa248341240168cffdb5f3a0cf728287a78b3338",
+    "seampact-darwin-arm64": "ca9188d22c2e7efa702ee18a1999d2e52e95d07c6e1d7e067298c7209b12d8f4",
+    "seampact-win32-x64.exe": "600130c63644dafb38056c4855b9aed0561f93cca04363e46672f6b774ca1caf"
+  }
 }
